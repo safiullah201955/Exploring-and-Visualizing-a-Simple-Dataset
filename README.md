@@ -17,7 +17,9 @@ The project uses the Iris dataset, a classic dataset in statistics and machine l
 | `species`      | Iris species (Setosa, Versicolor, Virginica) |
 
 Total Samples: 150
+
 Classes: 3 species (Setosa, Versicolor, Virginica)
+
 Source: Seaborn’s built-in dataset
 
 ## Key Results and Findings

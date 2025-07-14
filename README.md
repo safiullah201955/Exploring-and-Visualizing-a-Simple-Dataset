@@ -25,6 +25,8 @@ Source: Seaborn’s built-in dataset
 ## Key Results and Findings
 
 Petal features (length & width) show clear separation between species.
+
 Sepal features overlap slightly, especially between Versicolor and Virginica.
+
 Petal dimensions are likely to be highly predictive for classification tasks in future modeling stages.
 
